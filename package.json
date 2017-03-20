@@ -1,21 +1,23 @@
 {
-  "name": "ch",
+  "name": "html",
   "version": "1.0.0",
-  "description": "HTML",
+  "description": "html",
   "main": "index.js",
-  "dependencies": {},
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Fromzero828/HTML.git"
+    "url": "git+https://github.com/Fromzero828/html.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Fromzero828/HTML/issues"
+    "url": "https://github.com/Fromzero828/html/issues"
   },
-  "homepage": "https://github.com/Fromzero828/HTML#readme"
+  "homepage": "https://github.com/Fromzero828/html#readme",
+  "dependencies": {
+    "gitbook-plugin-expandable-chapters-small": "^0.1.7",
+    "gitbook-plugin-tbfed-pagefooter": "0.0.1"
+  }
 }
